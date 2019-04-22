@@ -7,6 +7,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
   },
+  "homepage": "https://virat21.github.io/React-Component-Design-Sudio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
