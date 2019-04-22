@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.42f69459.chunk.css",
-  "main.js": "/static/js/main.4f446455.chunk.js",
-  "main.js.map": "/static/js/main.4f446455.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
-  "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.59a29c41d5322431ce8f1cc1ad72268d.js": "/precache-manifest.59a29c41d5322431ce8f1cc1ad72268d.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.42f69459.chunk.css.map": "/static/css/main.42f69459.chunk.css.map"
+  "main.css": "/React-Component-Design-Sudio/static/css/main.42f69459.chunk.css",
+  "main.js": "/React-Component-Design-Sudio/static/js/main.d1b0c0bd.chunk.js",
+  "main.js.map": "/React-Component-Design-Sudio/static/js/main.d1b0c0bd.chunk.js.map",
+  "runtime~main.js": "/React-Component-Design-Sudio/static/js/runtime~main.3dcade2b.js",
+  "runtime~main.js.map": "/React-Component-Design-Sudio/static/js/runtime~main.3dcade2b.js.map",
+  "static/js/2.65aa1cca.chunk.js": "/React-Component-Design-Sudio/static/js/2.65aa1cca.chunk.js",
+  "static/js/2.65aa1cca.chunk.js.map": "/React-Component-Design-Sudio/static/js/2.65aa1cca.chunk.js.map",
+  "index.html": "/React-Component-Design-Sudio/index.html",
+  "precache-manifest.3040b6cbdb2ae1005ea6370e9e9b5618.js": "/React-Component-Design-Sudio/precache-manifest.3040b6cbdb2ae1005ea6370e9e9b5618.js",
+  "service-worker.js": "/React-Component-Design-Sudio/service-worker.js",
+  "static/css/main.42f69459.chunk.css.map": "/React-Component-Design-Sudio/static/css/main.42f69459.chunk.css.map"
 }
