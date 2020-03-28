@@ -26,6 +26,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install
     - run: npm run build --if-present
-    - run: ls && git status
+    - run: ls && git status && git add . && git commit -m "build" && git push
       env:
         CI: true
